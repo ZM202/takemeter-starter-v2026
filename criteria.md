@@ -54,12 +54,12 @@ whether you hit them:
 ## 1.
 
 <!-- Your criterion. It must name a number. -->
-
+The classifier should correctly label at least 65% of the comments in the held-out test set across all three random seeds.
 
 
 **Why this target:**
 
-
+I chose 65% because I'm working with three labels, and I want the model to do noticeably better than random guessing. I also expect some comments to be difficult to classify because opinions and reactions can overlap.
 
 ---
 

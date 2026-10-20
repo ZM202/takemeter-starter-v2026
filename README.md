@@ -43,6 +43,16 @@
      sentences. -->
 
 
+### What This Does
+
+TakeMeter is a project designed to classify online comments into three categories: analysis, hot take, and reaction.
+
+For this project, I selected the r/technology subreddit and developed a classification taxonomy with definitions and examples. I also created acceptance criteria and began collecting comments for the dataset.
+
+I was unable to complete the model training and evaluation because I encountered technical issues while setting up the Python environment and running the Jupyter notebook. I attempted to troubleshoot the virtual environment, install the required dependencies, and configure the notebook kernel, but I could not successfully complete the training process.
+
+As a result, the dataset and model evaluation are incomplete, and I do not have final performance results to report.
+
 
 ---
 
@@ -160,6 +170,18 @@ of next unit's variance. -->
      workflow and disclosing it costs you nothing. Not disclosing it is the
      problem. -->
 
+
+### How I Used AI
+
+I used AI as a learning and troubleshooting assistant during this project.
+
+1. **Developing the classification taxonomy:** I used AI to help organize the differences between analysis, hot take, and reaction comments and to improve the clarity of my category definitions.
+
+2. **Troubleshooting the development environment:** I used AI to troubleshoot Python virtual environment issues, dependency installation errors, and problems running the Jupyter notebook in VS Code.
+
+I reviewed the AI-generated suggestions and made decisions about how to apply them to my project.
+
+**Pre-labeling disclosure:** I did not use AI to automatically pre-label the Reddit comments I collected. The labeling process remains incomplete.
 **Moment 1**
 
 - *What I asked for:*

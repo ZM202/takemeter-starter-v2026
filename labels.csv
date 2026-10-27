@@ -1,41 +1,11 @@
 text,label,note
-
-https://www.reddit.com/r/technology/comments/1x90cgj/flock_camera_locations_revealed_on_mapquests_new/?utm_source=chatgpt.com
-
-"I just wish it was better. The speed limits are inaccurate, the traffic notification are never correct.
-Half the time I have to type the physical address to find a store instead of searching by the store name, 
-because it will not find some places via the name. I'm sticking with it but there is a lot of work to be done."
-
-"Wonder if they'll include "directions while avoiding cameras" as a setting?"
-
-"There’s an app called FlockHopper that does that. I used it for a while in Dallas. It works, but my 10 minute drives became 30 minute drives."
-
-"Crazy that mapquest surpassed apple and google in user friendliness just by maintaining map accuracy and not shoveling ads down your throat.
-They could improve the search function but it's nice to have an option that doesn't treat its users like a blood-bank to leech off like 
-these insatiable trillion dollar companies do"
-
-"Well they must be making money somehow… right? As much as I don’t want to believe this, the only thing I can think of is then 
-they sell your data. 
-Edit: I just saw in another comment that they have a paid version. That’s fucking sick, I’m switching to them."
-
-
-"I have Mapquest (their map) open right now on my PC and don't see this anywhere. It may only be via their app, and may only be on mobile. 
-I try and use smartphones less and less these days for privacy, security and overall health reasons. Plus if I was planning a trip, 
-my PC would be 10x more useful than trying to use my fingers on my phone. Especially a big drive. Both the article and the map seem 
-to leave this how to use detail out. I know where some Flock cameras are in my area and are shown on other websites, and Mapquest maps 
-isn't showing them right now to me."
-
-
-"This is simply OpenStreetMap-data that they show.
-
-One can use https://mapcomplete.org/surveillance and/or https://deflock.org/ to add missing camera's"
-
-"Mapquest and duckduckgo revival era"
-
-"Love how apple maps spams your map with ads, and MapQuest adds helpful tips like how to avoid cameras."
-
-"Related PSA: It doesn't end with Flock. Hopefully MapQuest means what they say with a general "surveillance layer" not just Flock.
-Flock is just one brand of many that supply the physical presence of the mass surveillance state.
-"Flock" is what "Kleenex" is to tissues. It's what "Zoom" is to video calling software.
-The video and data collection all just bubbles up to three letter agencies using data aggregation stacks such as Snowflake and Palantir.
-They'll try to tell you things like "we have ended our contract with Flock" which actually means NOTHING in terms of ending the mass surveillance crisis."
+"I just wish it was better. The speed limits are inaccurate, the traffic notification are never correct. Half the time I have to type the physical address to find a store instead of searching by the store name, because it will not find some places via the name. I'm sticking with it but there is a lot of work to be done.",analysis,Specific examples support criticism
+"Wonder if they'll include ""directions while avoiding cameras"" as a setting?",reaction,Brief question about a feature
+"There’s an app called FlockHopper that does that. I used it for a while in Dallas. It works, but my 10 minute drives became 30 minute drives.",analysis,Firsthand experience and time comparison
+Crazy that mapquest surpassed apple and google in user friendliness just by maintaining map accuracy and not shoveling ads down your throat. They could improve the search function but it's nice to have an option that doesn't treat its users like a blood-bank to leech off like these insatiable trillion dollar companies do,hot_take,Strong sweeping judgment
+"Well they must be making money somehow… right? As much as I don’t want to believe this, the only thing I can think of is then they sell your data. Edit: I just saw in another comment that they have a paid version. That’s fucking sick, I’m switching to them.",reaction,Immediate speculation and change of reaction
+"I have Mapquest (their map) open right now on my PC and don't see this anywhere. It may only be via their app, and may only be on mobile. I try and use smartphones less and less these days for privacy, security and overall health reasons. Plus if I was planning a trip, my PC would be 10x more useful than trying to use my fingers on my phone. Especially a big drive. Both the article and the map seem to leave this how to use detail out. I know where some Flock cameras are in my area and are shown on other websites, and Mapquest maps isn't showing them right now to me.",analysis,Direct observations and reasons
+This is simply OpenStreetMap-data that they show. One can use https://mapcomplete.org/surveillance and/or https://deflock.org/ to add missing camera's,analysis,Specific explanation and references
+Mapquest and duckduckgo revival era,reaction,Brief observation
+"Love how apple maps spams your map with ads, and MapQuest adds helpful tips like how to avoid cameras.",hot_take,Strong comparative opinion
+"Related PSA: It doesn't end with Flock. Hopefully MapQuest means what they say with a general ""surveillance layer"" not just Flock. Flock is just one brand of many that supply the physical presence of the mass surveillance state. ""Flock"" is what ""Kleenex"" is to tissues. It's what ""Zoom"" is to video calling software. The video and data collection all just bubbles up to three letter agencies using data aggregation stacks such as Snowflake and Palantir. They'll try to tell you things like ""we have ended our contract with Flock"" which actually means NOTHING in terms of ending the mass surveillance crisis.",analysis,Extended argument; claims unverified

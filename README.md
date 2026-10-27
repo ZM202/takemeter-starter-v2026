@@ -212,6 +212,16 @@ I reviewed the AI-generated suggestions and made decisions about how to apply th
 <!-- Both models on the same posts. `python baseline.py --trained results.json`
      prints this table for you. -->
 
+  ### Baseline Evaluation — Technical Limitations
+
+I attempted to run `python baseline.py` using my label definitions and labeled Reddit comments. The script successfully recognized 10 comments across three labels, but the evaluation failed because PyTorch could not load a required Windows DLL (`WinError 193`).
+
+Further investigation showed that PyTorch had been incompletely installed. I removed the incomplete installation, but I could not reinstall it because my C: drive had approximately 0.04 GB of available space.
+
+Additionally, `test_split.csv` and `results.json` were not generated during the previous assignment. Therefore, I could not produce baseline accuracy or F1 scores or perform a valid comparison against a trained model.
+
+My dataset currently contains 10 comments with AI-suggested labels and notes that I reviewed. These results should not be treated as a completed model evaluation.
+
 | Measure | Baseline | Trained | Difference |
 |---|---|---|---|
 | Overall accuracy |  |  |  |

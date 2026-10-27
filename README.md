@@ -64,6 +64,10 @@ As a result, the dataset and model evaluation are incomplete, and I do not have 
      The decision rule is worth a point on its own and it's the thing most
      people leave out. Every taxonomy has a hardest boundary. Name yours. -->
 
+analysis: A comment that explains or evaluates a topic using reasoning, evidence, or supporting context.
+hot_take: A comment that expresses a strong opinion or confident claim without sufficient supporting evidence.
+reaction: A comment that expresses an immediate emotional response or brief response to news or an event without substantial explanation.
+
 ### `label_one`
 
 **Definition:**
